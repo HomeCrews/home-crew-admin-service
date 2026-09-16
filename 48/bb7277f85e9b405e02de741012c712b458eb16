@@ -1,0 +1,20 @@
+src/main/java/com/homecrew/adminservice/AdminserviceApplication.java
+  h_bfc075b6e02f74 10-12
+src/main/java/com/homecrew/adminservice/config/SecurityConfig.java
+  h_bfc075b6e02f74 11-14,16-17
+src/main/java/com/homecrew/adminservice/controller/AdminController.java
+  h_bfc075b6e02f74 11-14
+src/test/java/com/homecrew/adminservice/AdminserviceApplicationTests.java
+  h_bfc075b6e02f74 9-10
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "48bb7277f85e9b405e02de741012c712b458eb16",
+  "prompts": {},
+  "humans": {
+    "h_bfc075b6e02f74": {
+      "author": "mThanuj <mullagurithanuj0@gmail.com>"
+    }
+  }
+}
