@@ -7,7 +7,7 @@ import org.springframework.boot.jdbc.autoconfigure.DataSourceAutoConfiguration;
 @SpringBootApplication(exclude = DataSourceAutoConfiguration.class)
 public class AdminserviceApplication {
 
-  public static void main(String[] args) {
-    SpringApplication.run(AdminserviceApplication.class, args);
-  }
+    public static void main(String[] args) {
+        SpringApplication.run(AdminserviceApplication.class, args);
+    }
 }
