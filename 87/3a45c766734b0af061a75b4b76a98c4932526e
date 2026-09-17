@@ -1,0 +1,39 @@
+.github/CODE_OF_CONDUCT.md
+  s_c32f130532e55b::t_e224c44067b4fe 1-134
+.github/CONTRIBUTING.md
+  s_c32f130532e55b::t_6c7a12691c90a6 1-181
+.github/ISSUE_TEMPLATE/bug_report.yml
+  s_c32f130532e55b::t_a885c3d4d9286e 1-79
+.github/ISSUE_TEMPLATE/config.yml
+  s_c32f130532e55b::t_1ab996394820b0 1-20
+.github/ISSUE_TEMPLATE/feature_request.yml
+  s_c32f130532e55b::t_40ff0fb1c1112a 1-51
+.github/PULL_REQUEST_TEMPLATE.md
+  s_c32f130532e55b::t_9d641248739e58 1-41
+.github/SECURITY.md
+  s_c32f130532e55b::t_ddcf5f21899aa8 1-100
+.github/SUPPORT.md
+  s_c32f130532e55b::t_03d4cfd13b75d0 1-62
+LICENSE
+  s_c32f130532e55b::t_640eea4bd572b9 1-21
+README.md
+  s_c32f130532e55b::t_cc6784456fd479 1-116
+pom.xml
+  s_c32f130532e55b::t_4f82ff5d7b974e 14-28,30-34,37-41,44-47,49
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "873a45c766734b0af061a75b4b76a98c4932526e",
+  "prompts": {},
+  "sessions": {
+    "s_c32f130532e55b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "bbba5d29-d2a8-4f09-92f4-84c9690beea7",
+        "model": "anthropic.claude-opus-5"
+      },
+      "human_author": "mThanuj <mullagurithanuj0@gmail.com>"
+    }
+  }
+}
